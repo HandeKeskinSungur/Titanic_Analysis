@@ -6,7 +6,7 @@ This project is part of the Data Analyst Nanodegree.
 * Exploratory data analysis
 * Data wrangling
 * Machine learning
-* [Data visualization](https://public.tableau.com/profile/marccollado#!/vizhome/TitanicFinal_6/Titanic)
+* [Data visualization](https://public.tableau.com/profile/hande.keskin.sungur#!/vizhome/TitanicTableauStory_final/TitanicStory)
 
 
 ## Introduction
