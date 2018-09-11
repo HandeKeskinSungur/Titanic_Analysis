@@ -1,7 +1,7 @@
 # Exploring the Titanic Data Set
 Data Analysis Project — Udacity Data Analyst Nanodegree
 
-This project is part of the Data Analyst Nanodegree. Below you'll find the rest of the projects and I also wrote a [short post](https://collado.io/blog/2018/udacity-dand) about the experience.
+This project is part of the Data Analyst Nanodegree. 
 
 * Exploratory data analysis
 * Data wrangling
